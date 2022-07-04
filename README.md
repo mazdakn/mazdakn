@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 - I'm a site reliability engineer and system developer with specialization in networks and communication systems.
 - I’m currently working on [Calico], developing its eBPF data plane.
