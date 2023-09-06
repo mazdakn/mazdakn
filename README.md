@@ -7,5 +7,5 @@
 
 [website]: https://mazdak.nasab.co/
 [Calico]: https://www.tigera.io/project-calico/
-[resume]: https://github.com/mazdakn/resume
+[resume]: https://github.com/mazdakn/mazdakn.github.io/blob/main/content/resume.md
 [Linkedin]: https://www.linkedin.com/in/mazdakn/
