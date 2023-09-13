@@ -5,7 +5,7 @@
 - I enjoy studying, building and developing network systems using Linux, C, Rust, Golang, and other open source solutions.
 - You can find more information about me in my [resume] and in my [Linkedin] profile.
 
-[website]: https://mazdak.nasab.co/
-[Calico]: https://www.tigera.io/project-calico/
+[website]: https://mazdak.xyz
+[Calico]: https://github.com/projectcalico/calico
 [resume]: https://github.com/mazdakn/mazdakn.github.io/blob/main/content/resume.md
 [Linkedin]: https://www.linkedin.com/in/mazdakn/
