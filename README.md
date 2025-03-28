@@ -8,4 +8,4 @@
 [website]: https://mazdak.xyz
 [Calico]: https://github.com/projectcalico/calico
 [resume]: https://github.com/mazdakn/mazdakn.github.io/blob/main/content/posts/resume.md
-[Linkedin]: https://www.linkedin.com/in/mazdakn/
+[Linkedin]: https://www.linkedIn.com/in/mazdakn/
